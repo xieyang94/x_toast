@@ -41,7 +41,7 @@ set https_proxy=https://127.0.0.1:1080
 
 7.1、发布 -v 能看到整个发布流程
 ```
-flutter packages publish -v
+flutter packages pub publish -v
 ```
 
 7.2、发布
